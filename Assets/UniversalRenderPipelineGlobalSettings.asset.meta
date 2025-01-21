@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/UniversalRenderPipelineGlobalSettings.asset.meta
 guid: fe990635ab901418ba4899750bb50c3f
+========
+guid: 7e6ea000873112847bd146ddb78ac67d
+>>>>>>>> Stashed changes:Assets/Viking Village/Boat Attack Water System/Materials/Caustics.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000

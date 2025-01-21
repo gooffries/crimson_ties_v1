@@ -1,6 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Medieval Village Building Pack/Meshes.meta
+guid: 99c56ee7f48efab4e8a3870da84d78f4
+========
+guid: acbd2dfeb340c4c22b2f27f6c456837b
+>>>>>>>> Stashed changes:Assets/GrassFlowers.meta
+folderAsset: yes
+=======
 guid: 99c56ee7f48efab4e8a3870da84d78f4
 folderAsset: yes
+timeCreated: 1523377580
+licenseType: Store
+>>>>>>> Stashed changes
 DefaultImporter:
   externalObjects: {}
   userData: 
